@@ -6,7 +6,7 @@ import numpy as np
 
 # Load the dataset (replace with your dataset path)
 df = pd.read_csv('pokemon.csv')
-st.logo("C:/Users/Mrank/Python/Sprits/pokeball.png",)
+st.logo("Sprits/pokeball.png",)
 
 # Create two columns for layout
 col1, col2 = st.columns([3, 3])
