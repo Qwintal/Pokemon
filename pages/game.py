@@ -3,7 +3,7 @@ import random
 import pandas as pd
 
 st.title("who's the pokemon??")
-st.logo("Sprits/pokeball.png",)
+st.logo("Sprits/pokeball.png")
 
 df = pd.read_csv('pokemon.csv')
 
