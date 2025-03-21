@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 st.title("Graphs and insight")
-st.logo("C:/Users/Mrank/Python/Sprits/pokeball.png",)
+st.logo("Sprits/pokeball.png")
 
 df =pd.read_csv("pokemon.csv")
 
