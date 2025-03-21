@@ -3,7 +3,7 @@ import pandas as pd
 
 # Set page title and logo
 st.title("Advanced Pokémon Search")
-st.logo("C:/Users/Mrank/Python/Sprits/pokeball.png")
+st.logo("Sprits/pokeball.png")
 
 # Load the dataset
 df = pd.read_csv("pokemon.csv")
