@@ -22,7 +22,7 @@ if 'pokemon_id' not in st.session_state:
     st.session_state.guess_submitted = False
 
 # Display the Pokémon image
-image_path = f"C:/Users/Mrank/Python/Sprits/{st.session_state.pokemon_id}.png"
+image_path = f"Sprits/{st.session_state.pokemon_id}.png"
 try:
     st.image(image_path, caption="Who’s this Pokémon?", width=200)
 except:
