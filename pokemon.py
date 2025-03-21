@@ -42,7 +42,7 @@ import streamlit as st
 
 # Load the dataset (replace with your dataset path)
 df = pd.read_csv('pokemon.csv')
-st.logo("Sprits/pokeball.png",)
+st.logo("Sprits/pokeball.png")
 col1, col2 = st.columns([3,2])
 with col1:
     st.title("Pokémon Pokedex") 
