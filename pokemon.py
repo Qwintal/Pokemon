@@ -42,12 +42,12 @@ import streamlit as st
 
 # Load the dataset (replace with your dataset path)
 df = pd.read_csv('pokemon.csv')
-st.logo("C:/Users/Mrank/Python/Pokemon/Sprits/pokeball.png",)
+st.logo("Sprits/pokeball.png",)
 col1, col2 = st.columns([3,2])
 with col1:
     st.title("Pokémon Pokedex") 
 with col2:
-    st.image("C:/Users/Mrank/Python/Pokemon/Sprits/pokedex.png", width=230)
+    st.image("Sprits/pokedex.png", width=230)
 
 # page 2
 
