@@ -1,10 +1,14 @@
 # loading data frame 
 import pandas as pd
+import os
+import streamlit as st
+import matplotlib.pyplot as plt
+import numpy as np
+
 df = pd.read_csv("pokemon.csv")
 
 # checking the working directory
 # manually move file to the working directory 
-import os 
 os.getcwd()
 
 # checking if the file loaded properly
@@ -37,7 +41,6 @@ print(df.describe())
 
 # Streamlit app
 # How to run - on command type "streamlit run pokemon.py"
-import streamlit as st
 # page 1
 
 # Load the dataset (replace with your dataset path)
@@ -50,16 +53,7 @@ with col2:
     st.image("Sprits/pokedex.png", width=230)
 
 # page 2
-
-import streamlit as st
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Load the dataset (replace with your dataset path)
-df = pd.read_csv('pokemon.csv')
-
- # Dropdown to select a Pokémon
+# Dropdown to select a Pokémon
 pokemon_names = df['name'].tolist()
 selected_pokemon = st.selectbox("Choose a Pokémon", pokemon_names)
 
