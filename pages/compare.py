@@ -36,7 +36,7 @@ with col1:
 
             with col1_inner:
                 pokedex_num = pokemon_data['pokedex_number'].values[0]
-                image_path = f"C:/Users/Mrank/Python/Sprits/{pokedex_num}.png"
+                image_path = f"Sprits/{pokedex_num}.png"
                 try:
                     st.image(image_path, caption=selected_pokemon_1)
                 except:
@@ -104,7 +104,7 @@ with col2:
 
             with col1_inner:
                 pokedex_num = pokemon_data['pokedex_number'].values[0]
-                image_path = f"C:/Users/Mrank/Python/Sprits/{pokedex_num}.png"
+                image_path = f"Sprits/{pokedex_num}.png"
                 try:
                     st.image(image_path, caption=selected_pokemon_2)
                 except:
