@@ -42,7 +42,7 @@ It also showcases how Python can be used for **data handling, visualization, and
    pip install -r requirements.txt
    ```
 3. ``` bash
-     streamlit run pokemon.py
+   streamlit run pokemon.py
    ```
 
 ## 🔮 Future Updates
