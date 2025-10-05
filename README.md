@@ -1,18 +1,18 @@
 # 🧾 Pokémon  – Interactive Web App
 
 ## 📌 Overview
-This project is an **interactive Pokémon Pokedex web application** built with Streamlit.  \
-It allows users to **search, filter, compare, and analyze Pokémon data** in a user-friendly interface.  \
-The app is designed for both casual Pokémon fans and data enthusiasts, providing insights through visualizations and comparisons.  \
+This project is an **interactive Pokémon Pokedex web application** built with Streamlit.\
+It allows users to **search, filter, compare, and analyze Pokémon data** in a user-friendly interface.\
+The app is designed for both casual Pokémon fans and data enthusiasts, providing insights through visualizations and comparisons.\
 It also showcases how Python can be used for **data handling, visualization, and web deployment**.
 
 ---
 
 ## 🚀 Features
-- 🔍 **Advanced Search** – Filter Pokémon by type, stats, and other attributes.  \
-- ⚔️ **Compare Tool** – Compare multiple Pokémon side by side.  \
-- 📊 **Insights Dashboard** – Visualize Pokémon distributions, top stats, and trends.  \
-- 🎮 **Game Feature** – Small interactive element for engagement.  \
+- 🔍 **Advanced Search** – Filter Pokémon by type, stats, and other attributes.\
+- ⚔️ **Compare Tool** – Compare multiple Pokémon side by side.\
+- 📊 **Insights Dashboard** – Visualize Pokémon distributions, top stats, and trends.\
+- 🎮 **Game Feature** – Small interactive element for engagement.\
 - 📑 **View All Page** – Browse the full dataset (to be improved/removed in future updates).  
 
 🔗 **Live Demo:** [Click Here](https://pokemon-pokedex.streamlit.app/)
@@ -20,9 +20,9 @@ It also showcases how Python can be used for **data handling, visualization, and
 ---
 
 ## 🛠 Tech Stack
-- **Python** – Core programming language  \
-- **Streamlit** – Web app deployment  \
-- **Matplotlib & Seaborn** – Data visualization  \
+- **Python** – Core programming language\
+- **Streamlit** – Web app deployment\
+- **Matplotlib & Seaborn** – Data visualization\
 - **Pandas & NumPy** – Data processing & calculations  
 
 ---
