@@ -9,10 +9,10 @@ It also showcases how Python can be used for **data handling, visualization, and
 ---
 
 ## 🚀 Features
-- 🔍 **Advanced Search** – Filter Pokémon by type, stats, and other attributes.\
-- ⚔️ **Compare Tool** – Compare multiple Pokémon side by side.\
-- 📊 **Insights Dashboard** – Visualize Pokémon distributions, top stats, and trends.\
-- 🎮 **Game Feature** – Small interactive element for engagement.\
+- 🔍 **Advanced Search** – Filter Pokémon by type, stats, and other attributes.
+- ⚔️ **Compare Tool** – Compare multiple Pokémon side by side.
+- 📊 **Insights Dashboard** – Visualize Pokémon distributions, top stats, and trends.
+- 🎮 **Game Feature** – Small interactive element for engagement.
 - 📑 **View All Page** – Browse the full dataset (to be improved/removed in future updates).  
 
 🔗 **Live Demo:** [Click Here](https://pokemon-pokedex.streamlit.app/)
@@ -20,9 +20,9 @@ It also showcases how Python can be used for **data handling, visualization, and
 ---
 
 ## 🛠 Tech Stack
-- **Python** – Core programming language\
-- **Streamlit** – Web app deployment\
-- **Matplotlib & Seaborn** – Data visualization\
+- **Python** – Core programming language
+- **Streamlit** – Web app deployment
+- **Matplotlib & Seaborn** – Data visualization
 - **Pandas & NumPy** – Data processing & calculations  
 
 ---
@@ -46,12 +46,12 @@ It also showcases how Python can be used for **data handling, visualization, and
    ```
 
 ## 🔮 Future Updates
-1. Add up-to-date Pokémon (latest generations & forms).\
-2. Introduce radar charts for base stats.\
-3. Improve the comparison page with more visuals.\
-4. Make the insights page more professional and interactive.\
-5. Enhance advanced search with more filters.\
-6. Remove/restructure the “View All” page.\
+1. Add up-to-date Pokémon (latest generations & forms).
+2. Introduce radar charts for base stats.
+3. Improve the comparison page with more visuals.
+4. Make the insights page more professional and interactive.
+5. Enhance advanced search with more filters.
+6. Remove/restructure the “View All” page.
 7. Add a Team Builder page to analyze team weaknesses and suggest improvements.
 
 ## 🌐 Inspiration & References
